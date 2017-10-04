@@ -1,2 +1,2 @@
 # vueprj2
-smo changes to master branch
+some changes to master branch
